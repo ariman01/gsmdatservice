@@ -1,0 +1,17 @@
+package com.visa.gsmdataservice;
+
+/**
+ * Hello world!
+ *
+ */
+import com.google.gson.*;
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	String js = "{\"x\":1}";
+    	JsonParser jsp = new JsonParser();
+    	JsonElement el = jsp.parse(js);
+        System.out.println( "Hello World!"+el );
+    }
+}

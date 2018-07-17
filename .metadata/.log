@@ -1,0 +1,34 @@
+!SESSION 2018-07-17 02:00:29.512 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/oori/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -data /Users/oori/Desktop/GsmWorkspace -product org.eclipse.epp.package.java.product -keyring /Users/oori/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2018-07-17 02:00:36.227
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-17 02:03:06.043
+!MESSAGE The POM for com.google.code.gson:gson:jar:2.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-17 02:03:24.926
+!MESSAGE The POM for com.google.code.gson:gson:jar:2.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-17 02:03:25.111
+!MESSAGE The POM for com.google.code.gson:gson:jar:2.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-17 02:04:10.927
+!MESSAGE The POM for com.google.code.gson:gson:jar:2.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-17 02:04:11.229
+!MESSAGE The POM for com.google.code.gson:gson:jar:2.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-17 02:05:16.173
+!MESSAGE The POM for com.google.gson:gson:jar:2.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-17 02:08:05.288
+!MESSAGE The POM for com.google.gson:gson:jar:2.3 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-07-17 02:08:05.434
+!MESSAGE The POM for com.google.gson:gson:jar:2.3 is missing, no dependency information available

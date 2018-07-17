@@ -1,0 +1,102 @@
+2018-07-17 02:01:47,852 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/oori/Desktop/GsmWorkspace/gsmdataservice/pom.xml
+2018-07-17 02:01:49,964 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.visa:gsmdataservice:0.0.1-SNAPSHOT @ /Users/oori/Desktop/GsmWorkspace/gsmdataservice/pom.xml.
+2018-07-17 02:01:50,405 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gsmdataservice/src/main/java
+2018-07-17 02:01:50,416 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gsmdataservice/src/test/java
+2018-07-17 02:01:50,534 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.visa:gsmdataservice:0.0.1-SNAPSHOT @ /Users/oori/Desktop/GsmWorkspace/gsmdataservice/pom.xml.
+2018-07-17 02:01:52,386 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2018-07-17 02:01:53,512 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.visa:gsmdataservice:0.0.1-SNAPSHOT @ /Users/oori/Desktop/GsmWorkspace/gsmdataservice/pom.xml.
+2018-07-17 02:01:53,683 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:01:53,683 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:01:53,688 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:01:53,689 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:03:05,255 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.visa:gsmdataservice:0.0.1-SNAPSHOT @ /Users/oori/Desktop/GsmWorkspace/gsmdataservice/pom.xml.
+2018-07-17 02:03:06,039 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8/gson-2.8.pom
+2018-07-17 02:03:06,042 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.google.code.gson:gson:jar:2.8 is missing, no dependency information available
+2018-07-17 02:03:06,088 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8/gson-2.8.jar
+2018-07-17 02:03:06,168 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:03:06,169 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:03:06,171 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:03:06,171 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:03:24,926 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.google.code.gson:gson:jar:2.8 is missing, no dependency information available
+2018-07-17 02:03:25,103 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.visa:gsmdataservice:0.0.1-SNAPSHOT @ /Users/oori/Desktop/GsmWorkspace/gsmdataservice/pom.xml.
+2018-07-17 02:03:25,110 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.google.code.gson:gson:jar:2.8 is missing, no dependency information available
+2018-07-17 02:03:25,216 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:03:25,216 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:03:25,218 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:03:25,218 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:04:10,864 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-07-17 02:04:10,916 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.visa:gsmdataservice:0.0.1-SNAPSHOT @ /Users/oori/Desktop/GsmWorkspace/gsmdataservice/pom.xml.
+2018-07-17 02:04:10,926 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.google.code.gson:gson:jar:2.8 is missing, no dependency information available
+2018-07-17 02:04:10,975 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gsmdataservice/src/main/java
+2018-07-17 02:04:10,976 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /gsmdataservice/src/test/java
+2018-07-17 02:04:11,106 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-07-17 02:04:11,229 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.google.code.gson:gson:jar:2.8 is missing, no dependency information available
+2018-07-17 02:04:11,237 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:04:11,237 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:04:11,239 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:04:11,239 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:05:16,018 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.visa:gsmdataservice:0.0.1-SNAPSHOT @ /Users/oori/Desktop/GsmWorkspace/gsmdataservice/pom.xml.
+2018-07-17 02:05:16,171 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/gson/gson/2.8/gson-2.8.pom
+2018-07-17 02:05:16,172 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.google.gson:gson:jar:2.8 is missing, no dependency information available
+2018-07-17 02:05:16,288 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/gson/gson/2.8/gson-2.8.jar
+2018-07-17 02:05:16,332 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:05:16,332 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:05:16,334 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:05:16,335 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:05:28,758 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.visa:gsmdataservice:0.0.1-SNAPSHOT @ /Users/oori/Desktop/GsmWorkspace/gsmdataservice/pom.xml.
+2018-07-17 02:05:43,130 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.visa:gsmdataservice:0.0.1-SNAPSHOT @ /Users/oori/Desktop/GsmWorkspace/gsmdataservice/pom.xml.
+2018-07-17 02:06:52,147 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.visa:gsmdataservice:0.0.1-SNAPSHOT @ /Users/oori/Desktop/GsmWorkspace/gsmdataservice/pom.xml.
+2018-07-17 02:08:05,286 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/gson/gson/2.3/gson-2.3.pom
+2018-07-17 02:08:05,287 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.google.gson:gson:jar:2.3 is missing, no dependency information available
+2018-07-17 02:08:05,323 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.visa:gsmdataservice:0.0.1-SNAPSHOT @ /Users/oori/Desktop/GsmWorkspace/gsmdataservice/pom.xml.
+2018-07-17 02:08:05,423 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/gson/gson/2.3/gson-2.3.jar
+2018-07-17 02:08:05,434 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.google.gson:gson:jar:2.3 is missing, no dependency information available
+2018-07-17 02:08:05,479 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:08:05,479 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:08:05,481 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:08:05,481 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:08:14,689 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3/gson-2.3.pom
+2018-07-17 02:08:14,779 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.visa:gsmdataservice:0.0.1-SNAPSHOT @ /Users/oori/Desktop/GsmWorkspace/gsmdataservice/pom.xml.
+2018-07-17 02:08:14,809 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3/gson-2.3.pom
+2018-07-17 02:08:14,872 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3/gson-2.3.jar
+2018-07-17 02:08:14,939 [Worker-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.3/gson-2.3.jar
+2018-07-17 02:08:14,982 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:08:14,983 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:08:14,984 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:08:14,984 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:08:16,133 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:08:16,134 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:08:16,137 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:08:16,137 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:08:56,234 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:08:56,234 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:08:56,236 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:08:56,236 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:09:36,602 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:09:36,603 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:09:36,604 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:09:36,604 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:10:07,807 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:10:07,807 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:10:07,809 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:10:07,810 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:10:18,052 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:10:18,052 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:10:18,054 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:10:18,054 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:10:40,550 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:10:40,550 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:10:40,551 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:10:40,551 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:10:47,928 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:10:47,928 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:10:47,929 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:10:47,930 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:11:10,665 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:11:10,666 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:11:10,667 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:11:10,667 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
+2018-07-17 02:11:46,918 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:11:46,918 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/main/resources
+2018-07-17 02:11:46,924 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-07-17 02:11:46,924 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/oori/Desktop/GsmWorkspace/gsmdataservice/src/test/resources
